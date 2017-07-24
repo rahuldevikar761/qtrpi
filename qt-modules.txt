@@ -2,6 +2,7 @@
 qtbase
 qtdeclarative
 qt3d
+qtgraphicaleffects
 qtquickcontrols
 qtquickcontrols2
 qtserialport
